@@ -1,6 +1,6 @@
 # Player-Bot
 
-This bot does not recive no support or updates
+This bot does not receive support or updates
 
 
 
